@@ -6,7 +6,7 @@ RAPPORT EXPLICATIF – MARS 2018
 
 ## SATIGNY
 
-Adopté par le Conseil d’Etat le 21 novembre 2018
+Adopté par le Conseil d’Etat le 21 novembre 2019
 
 ## LIEU-DIT « CHAMP MAGNIN »
 
