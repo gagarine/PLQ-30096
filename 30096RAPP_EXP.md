@@ -38,7 +38,7 @@ Le plan localisé de quartier (PLQ) N° 30096 se situe à l'angle de la route de
 Satigny avec la route du Mandement, au nord du village de Satigny, au lieu-dit « Champ-
 Magnin ».
 
-Une demande de renseignement (DR) N° 18'441 portant sur la construction de cinq
+Une demande de renseignement (DR) N° 18'441 blalbla portant sur la construction de cinq
 immeubles de logements et un garage souterrain sur la parcelle 10375, située en bordure de
 la route du Mandement sur la commune de Satigny, a été déposée le 5 mars 2013. Elle a
 reçu une réponse positive de la part du département de l’aménagement, du logement et de
