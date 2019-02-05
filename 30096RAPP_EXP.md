@@ -32,10 +32,6 @@ Adopté par le Conseil d’Etat le 21 novembre 2018
    - 5.2 La concertation
 
 
-
-```
-PLQ N° 30096 – rapport explicatif – page 1
-```
 ## 1. Introduction
 
 Le plan localisé de quartier (PLQ) N° 30096 se situe à l'angle de la route de la Gare-de-
@@ -72,9 +68,6 @@ Le dossier de PLQ est accompagné de pièces règlementaires, comme le CET (conc
 documents sont également opposables aux tiers.
 
 
-```
-PLQ N° 30096 – rapport explicatif – page 2
-```
 ## 2. Contexte
 
 ### 2.1 Description succincte
@@ -91,9 +84,7 @@ le long de la route de la Gare-de-Satigny. Au nord-est, le site est contigu à u
 maisons villageoises dont deux sont inscrites à l'inventaire.
 
 
-```
-PLQ N° 30096 – rapport explicatif – page 3
-```
+
 ```
 Maisons inscrites à l'inventaire
 ```
@@ -103,9 +94,7 @@ propriété de Monsieur Jean-Daniel SCHLAEPFER.
 Actuellement, le périmètre du PLQ est occupé par des vignes.
 
 
-```
-PLQ N° 30096 – rapport explicatif – page 4
-```
+
 Le site est principalement desservi par la ligne ferroviaire Léman Express, qui relie la commune
 de Satigny à la gare Cornavin en 12 minutes, avec un arrêt à la gare de Satigny se situant à
 environ 350 m du site.
@@ -127,15 +116,11 @@ Courbes de niveaux
 350m
 ```
 
-PLQ N° 30096 – rapport explicatif – page 5
-
 ```
 Photos du site
 ```
 
-```
-PLQ N° 30096 – rapport explicatif – page 6
-```
+
 ### 2.2 Planifications directrices
 
 2.2.1 Planification cantonale
@@ -153,9 +138,7 @@ densification ponctuelle des noyaux suburbains. La carte renvoie à la fiche A02
 Extrait du plan directeur cantonal 2030
 ```
 
-```
-PLQ N° 30096 – rapport explicatif – page 7
-```
+
 Cette dernière, intitulée « poursuivre la densification de la couronne urbaine » fixe comme
 objectifs de :
 
@@ -183,18 +166,14 @@ Le PLQ est conforme à l’image directrice du PDCom qui reconnaît le secteur c
 bâtir.
 
 
-```
-PLQ N° 30096 – rapport explicatif – page 8
-```
+
 Le PDCom prévoit dans sa fiche de mesure 3.1, la révision du PLQ 27'864.
 
 ```
 Programme de mise en œuvre du PDCom en cours de révision – fiche de mesure
 ```
 
-```
-PLQ N° 30096 – rapport explicatif – page 9
-```
+
 ## 3. Présentation des études préalables
 
 ### 3.1 La chronologie des études
@@ -230,9 +209,7 @@ inscrites à l'inventaire et forment un ensemble de grande qualité. Le projet d
 du tissu bâti ancien et de son échelle.
 
 
-```
-PLQ N° 30096 – rapport explicatif – page 10
-```
+
 ```
 La mobilité
 ```
@@ -288,9 +265,6 @@ son volume continu de plus de 70 mètres de long était peu adapté aux spécifi
 
 
 ```
-PLQ N° 30096 – rapport explicatif – page 11
-```
-```
 Surface brute de plancher = 4'061m^2
 Indice d'utilisation du sol = 0.9 9
 40 logements
@@ -314,9 +288,6 @@ Indice d'utilisation du sol = 0.
 34 logements
 
 
-```
-PLQ N° 30096 – rapport explicatif – page 12
-```
 ### 3.4.3 Variante 3
 
 Le projet a été modifié et représenté en juin 2015.
@@ -345,9 +316,6 @@ Indice d'utilisation du sol = 0.
 29 logements
 
 
-```
-PLQ N° 30096 – rapport explicatif – page 13
-```
 Ces volumes fragmentés permettent une articulation plus souple et une insertion fine dans le
 terrain naturel. Le projet crée un espace central et des perméabilités. Les gabarits (R+2)
 ainsi que les toitures en pente participent pleinement à l'intégration des bâtiments dans le
@@ -356,9 +324,6 @@ site.
 Cette variante a été validée et retenue pour l'élaboration du PLQ.
 
 
-```
-PLQ N° 30096 – rapport explicatif - page 14
-```
 ## 4. Projet
 
 ### 4.1 Le parti d’aménagement retenu
@@ -392,11 +357,6 @@ une double orientation pour ceux de taille plus petite.
 
 1. Articulation des volumes selon les
     contraintes topographiques
-
-
-```
-PLQ N° 30096 – rapport explicatif – page 15
-```
 2. Circulation piétonnière fluide en relation
     avec la topographie du site.
 3. Création de plusieurs lieux de rencontre,
@@ -405,11 +365,6 @@ PLQ N° 30096 – rapport explicatif – page 15
 4. Mise en valeur des bâtiments inscrits à
     l’inventaire.
 5. Dégagement de l'angle nord de la parcelle
-
-
-```
-PLQ N° 30096 – rapport explicatif - page 16
-```
 6. Création d'un seul garage souterrain pour les voitures et deux-roues motorisés avec un
     seul accès pour desservir l'ensemble des logements.
 7. Des servitudes de passage public à pied et à vélo sont prévues pour garantir la traversée
@@ -426,9 +381,6 @@ dans la charte.
 Extrait de la carte de synthèse des objectifs de la charte des espaces libres et des aménagements extérieurs du village
 ```
 
-```
-PLQ N° 30096 – rapport explicatif – page 17
-```
 Les espaces extérieurs sont considérés comme un ensemble et doivent être réalisés de
 manière unitaire, même si le projet se réalise en plusieurs étapes. Ils doivent offrir une bonne
 qualité de vie aux habitants. Ils servent d'espaces de distribution et d'échanges, de zones de
@@ -486,10 +438,6 @@ fixés par l’article 5, alinéa 8 RPSFP de la manière suivante :
 
 - 0.2 place/100m^2 SBP.
 
-
-```
-PLQ N° 30096 – rapport explicatif - page 18
-```
 B. En matière d’activités :
 
 1/ Les ratios de stationnement pour les voitures dans le secteur VI sont fixés par l'article 6
@@ -552,9 +500,6 @@ Soit un total de 3 places voitures pour les employés et 1 place pour les client
 Soit un total de 46 places vélos, dont environ 50 % en surface.
 
 
-```
-PLQ N° 30096 – rapport explicatif – page 19
-```
 ### D. Places de stationnement deux-roues motorisés (2RM)
 
 3.1/ Pour les logements :
@@ -583,10 +528,6 @@ charge de 25 tonnes.
 Aucun élément (par exemple les aires d'implantation de stationnement vélos) ne doit gêner
 les voies d'accès.
 
-
-```
-PLQ N° 30096 – rapport explicatif - page 20
-```
 ### 4.3 Abrogation des documents
 
 Le PLQ N° 30096 -535 abroge et remplace en partie le PLQ N° 27'864-535 adopté par le
@@ -608,10 +549,6 @@ l'implantation, les gabarits et l'accessibilité ont pu être consultés suite �
 dossier dans la Feuille d’avis officielle du 12 avril 2013. A la fin de cette consultation, aucune
 observation n'a été adressée à l'office de l'urbanisme.
 
-
-```
-PLQ N° 30096 – rapport explicatif – page 21
-```
 Formalisation
 
 Le PLQ a pris en considération les différentes demandes et conditions qui ont été formulées
@@ -655,6 +592,8 @@ Département du territoire
 Office de l’urbanisme
 Rue David-Dufour 5 • case postale 224 • 1211 Genève 8
 Tél. +41 (22) 546 73 10 • nouveauxquartiers.ge.ch
-_Papier recyclé_
 
+```
+PLQ N° 30096 – rapport explicatif
+```
 
